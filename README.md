@@ -6,8 +6,6 @@ Aluno: Pedro Caio Ramos de Santana
 
 Nº matrícula: 201521705
 
-Link para o vídeo demonstrando o funcionamento do algoritmo: https://youtu.be/g1ujBbrSIBY
-
 O algoritmo A* foi aplicado em uma ferramenta que serve para encontrar caminhos em um labirinto.
 
 Para executar o código o usuário deve com o projeto em mãos navegar na pasta source e após isso clicar no item ui.exe. 
